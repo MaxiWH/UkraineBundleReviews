@@ -1,12 +1,15 @@
 -Games to play from Ukraine Bundle-
-(Best experienced though Textreme 2)
+(This document is best experienced though Textreme 2)
 ________________________________
 
 Raking:
 -Amazing- *Fantastic* #Great# _Good_ |Unraked| Meh
 
+
+
 Played:
-━━━━
+━━━━━━━━━━━━━━━━━━━━━
+
 -Gonner- 
 Fantastic platformer with unique artstyle
 
@@ -16,8 +19,11 @@ Unique time-fuckery fps
 #Cloud Gardens# 
 Very chill, you balance between creating plants which grow around the environment and placing trash in the environment which allows the plants to grow. Beautiful low poly models with pixelart texturing
 
+
+
 Well regarded:
-━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━
+
 |A Short Hike| (Really chill exploration game)
 |Baba Is You| (Unique, smart and fun puzzle game)
 |Backbone| (Insane pixel art)
@@ -38,8 +44,11 @@ Well regarded:
 |Towerfall Ascension| (Raw Fury, CO-OP, expansion included in bundle)
 |Wandersong| (Recommended by GMTK)
 
+
+
 Promising:
-━━━━━
+━━━━━━━━━━━━━━━━━━━━━
+
 |A Good Snowman is Hard to Build| (Charming puzzle game)
 |Circa Infinity| (Very unique and cool looking trippy platformer)
 |Cook, serve, delicious!| (Recommended by Jay)
@@ -67,8 +76,11 @@ Promising:
 |You can pet the dog VR| (YOU. CAN. PET. THE. DOG... V! R!)
 |Ynglet| (Looks super fluid and has a unique style)
 
+
+
 Intriguing:
-━━━━━
+━━━━━━━━━━━━━━━━━━━━━
+
 |A Dance of Fire and Ice|
 |Angry Video Game Nerd Deluxe|
 |Button City|
