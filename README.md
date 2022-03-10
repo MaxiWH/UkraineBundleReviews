@@ -44,7 +44,7 @@ Well regarded:
 |SkateBIRD| (Birds + Skating = win?)
 |Speeddating  for Ghost| (Quirky)
 |Super Hexagon| (Unique rythm game)
-|Towerfall Ascension| (Recommended by Jay. CO-OP, expansion included in bundle)
+|Towerfall Ascension| (*Recommended by Jay*. CO-OP, expansion included in bundle)
 |Wandersong| (Recommended by GMTK)
 
 
@@ -54,7 +54,7 @@ Promising:
 
 |A Good Snowman is Hard to Build| (Charming puzzle game)
 |Circa Infinity| (Very unique and cool looking trippy platformer)
-|Cook, serve, delicious!| (Recommended by Jay, one of the origional cooking/management games)
+|Cook, serve, delicious!| (#Recommended by Jay#, one of the origional cooking/management games)
 |Dépanneur Nocturne| (Really clean artstyle)
 |Future Unfolding| (Looks nice)
 |Ganbare! Super Strikes| (Soccer game meets tactical RPG)
