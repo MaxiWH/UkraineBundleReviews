@@ -1,6 +1,6 @@
 -Games to play from Ukraine Bundle-
 (This document is best experienced though Textreme 2)
-________________________________
+━━━━━━━━━━━━━━━━━━━━━
 
 Raking:
 -Amazing- *Fantastic* #Great# _Good_ |Unraked| >Meh<
@@ -30,6 +30,7 @@ Well regarded:
 |Baldi's Basics+| (meme)
 |Celeste| (Best in its genre, more or less)
 |CrossCode| (Fun looking top down pixelart game with exciting combat)
+|Death and Taxes| (Recommended by Jay, like papers please but you're the new grim reaper)
 |Figment| (Recommended by GMTK)
 |Hidden Folks| (Quirky "Where's Waldo"-esque game with nice artstyle)
 |Hoplegs| (Unique funny game made by Kev, who is a really nice guy from Aurora Punks)
@@ -41,7 +42,7 @@ Well regarded:
 |SkateBIRD| (Birds + Skating = win?)
 |Speeddating  for Ghost| (Quirky)
 |Super Hexagon| (Unique rythm game)
-|Towerfall Ascension| (Raw Fury, CO-OP, expansion included in bundle)
+|Towerfall Ascension| (CO-OP, expansion included in bundle)
 |Wandersong| (Recommended by GMTK)
 
 
@@ -51,8 +52,7 @@ Promising:
 
 |A Good Snowman is Hard to Build| (Charming puzzle game)
 |Circa Infinity| (Very unique and cool looking trippy platformer)
-|Cook, serve, delicious!| (Recommended by Jay)
-|Death and Taxes| (Recommended by Jay)
+|Cook, serve, delicious!| (Recommended by Jay, one of the origional cooking/management games)
 |Dépanneur Nocturne| (Really clean artstyle)
 |Future Unfolding| (Looks nice)
 |Ganbare! Super Strikes| (Soccer game meets tactical RPG)
@@ -64,7 +64,7 @@ Promising:
 |Lucifer within| (Mystery/Detective game with a unique dialogue/detective mechanic)
 |Luna| (Looks like a painting but it's 3D)
 |Menos: PSI Shatter| (Top-Down Telekenisis Power Fantasy)
-|Not The Robots| (Made by same studio as Hello Neighbor)
+|Not The Robots| (A stealth game about eating furniture. Made by same studio as Hello Neighbor)
 |Old Man's Journey| (Beautiful environments/artstyle)
 |Pendula Swing| (Cool artstyle)
 |Sophie's Safecracking Simulator| (Really thorough/realistic simulation)
@@ -91,7 +91,7 @@ Intriguing:
 |Fake Illusions|
 |Fatum Betula|
 |Forma.8|
-|Fortune499|
+|Fortune 499|
 |Fostering Apocalypse|
 |Golf Peaks|
 |Good Mourning|
