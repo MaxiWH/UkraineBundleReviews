@@ -37,13 +37,14 @@ Well regarded:
 |Hidden Folks| (Quirky "Where's Waldo"-esque game with nice artstyle)
 |Kids| (Artsy-fartsy)
 |Kingdom Two Crows| (Raw Fury game)
+|Lucifer within| (*Recommended by Karin*. Mystery/Detective game with a unique dialogue/detective mechanic)
 |Minit| (Unique pixel art rogue like)
 |Minit Fun Racer| 
 |Night Call| (Raw Fury game)
 |SkateBIRD| (Birds + Skating = win?)
 |Speeddating  for Ghost| (Quirky)
 |Super Hexagon| (Unique rythm game)
-|Towerfall Ascension| (CO-OP, expansion included in bundle)
+|Towerfall Ascension| (Recommended by Jay. CO-OP, expansion included in bundle)
 |Wandersong| (Recommended by GMTK)
 
 
@@ -62,7 +63,6 @@ Promising:
 |Inner Tao| (Clean looking colour/logic puzzle game)
 |Inmost| (Stunning pixel art game)
 |Landlord of the Woods| (Unique artstyle, seems a bit grim)
-|Lucifer within| (Mystery/Detective game with a unique dialogue/detective mechanic)
 |Luna| (Looks like a painting but it's 3D)
 |Menos: PSI Shatter| (Top-Down Telekenisis Power Fantasy)
 |Not The Robots| (A stealth game about eating furniture. Made by same studio as Hello Neighbor)
