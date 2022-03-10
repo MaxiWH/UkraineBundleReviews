@@ -17,7 +17,7 @@ Fantastic platformer with unique artstyle
 Unique time-fuckery fps
 
 #Cloud Gardens# 
-Very chill, you balance between creating plants which grow around the environment and placing trash in the environment which allows the plants to grow. Beautiful low poly models with pixelart texturing. A good game to relax to.
+Very chill, you balance between creating plants which grow around the environment and placing trash in the environment which allows the plants to grow. Beautiful low poly models with pixelart texturing. A good game to relax to. I (Maxi) would argue that this game could serve as a tool for practicing environment design.
 
 #Hoplegs#
 Unique and funny physics based platforming rage  game with very unconventional controls. Made by Kev, who is a really nice guy from Aurora Punks,
