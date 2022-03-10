@@ -17,8 +17,10 @@ Fantastic platformer with unique artstyle
 Unique time-fuckery fps
 
 #Cloud Gardens# 
-Very chill, you balance between creating plants which grow around the environment and placing trash in the environment which allows the plants to grow. Beautiful low poly models with pixelart texturing
+Very chill, you balance between creating plants which grow around the environment and placing trash in the environment which allows the plants to grow. Beautiful low poly models with pixelart texturing. A good game to relax to.
 
+#Hoplegs#
+Unique and funny physics based platforming rage  game with very unconventional controls. Made by Kev, who is a really nice guy from Aurora Punks,
 
 
 Well regarded:
@@ -33,7 +35,6 @@ Well regarded:
 |Death and Taxes| (Recommended by Jay, like papers please but you're the new grim reaper)
 |Figment| (Recommended by GMTK)
 |Hidden Folks| (Quirky "Where's Waldo"-esque game with nice artstyle)
-|Hoplegs| (Unique funny game made by Kev, who is a really nice guy from Aurora Punks)
 |Kids| (Artsy-fartsy)
 |Kingdom Two Crows| (Raw Fury game)
 |Minit| (Unique pixel art rogue like)
