@@ -3,7 +3,7 @@
 ________________________________
 
 Raking:
--Amazing- *Fantastic* #Great# _Good_ |Unraked| Meh
+-Amazing- *Fantastic* #Great# _Good_ |Unraked| >Meh<
 
 
 
@@ -110,4 +110,5 @@ Intriguing:
 |The White Doors|
 |Toree 3D|
 |Toree 2 (The sequel to Toree 3D)|
+|Underhero|
 |Zero Ranger|
