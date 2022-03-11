@@ -55,8 +55,8 @@ Promising:
 |A Good Snowman is Hard to Build| (Charming puzzle game)
 |Circa Infinity| (Very unique and cool looking trippy platformer)
 |Cook, serve, delicious!| (#Recommended by Jay#, one of the origional cooking/management games)
+|Cosmic Express| (Recommended by GMTK)
 |Dépanneur Nocturne| (Really clean artstyle)
-|Future Unfolding| (Looks nice)
 |Ganbare! Super Strikes| (Soccer game meets tactical RPG)
 |Gladiabots| (Make your own AI with node logic and fight in arena)
 |GourMelee| (Charming co-op game with up to 8 players on 4 controllers)
@@ -64,7 +64,6 @@ Promising:
 |Inmost| (Stunning pixel art game)
 |Landlord of the Woods| (Unique artstyle, seems a bit grim)
 |Luna| (Looks like a painting but it's 3D)
-|Menos: PSI Shatter| (Top-Down Telekenisis Power Fantasy)
 |Not The Robots| (A stealth game about eating furniture. Made by same studio as Hello Neighbor)
 |Old Man's Journey| (Beautiful environments/artstyle)
 |Pendula Swing| (Cool artstyle)
@@ -84,9 +83,9 @@ Intriguing:
 
 |A Dance of Fire and Ice|
 |Angry Video Game Nerd Deluxe|
+|Botolo|
 |Button City|
 |Card Hog|
-|Cosmic Express|
 |Democratic Socialism Simulator|
 |dstnce.|
 |Fake Illusions|
@@ -94,11 +93,13 @@ Intriguing:
 |Forma.8|
 |Fortune 499|
 |Fostering Apocalypse|
+|Future Unfolding|
 |Golf Peaks|
 |Good Mourning|
 |Gunhouse| (made by studio which organized the bundle)
 |Hypnagogia|
 |Klang 2|
+|Menos: PSI Shatter| 
 |Nauticrawl|
 |Pig Eat Ball|
 |Quiet as a Stone|
@@ -108,6 +109,7 @@ Intriguing:
 |Sunlight|
 |Tenderfoot Tactics|
 |The Last Survey|
+|The Lost Night|
 |The White Doors|
 |Toree 3D|
 |Toree 2 (The sequel to Toree 3D)|
