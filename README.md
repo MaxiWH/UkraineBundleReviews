@@ -10,6 +10,9 @@ Raking:
 Played:
 ━━━━━━━━━━━━━━━━━━━━━
 
+-A Short Hike-
+ A calm, beautiful and joyful exploration game filled to the brim with charm. Encounter extremely lovable characters as you explore the beautiful island overcoming greater and greater challenges as you go. A short but sweet experience with a moving story.
+
 -Gonner- 
 Fantastic platformer with unique artstyle
 
@@ -26,7 +29,6 @@ Unique and funny physics based platforming rage  game with very unconventional c
 Well regarded:
 ━━━━━━━━━━━━━━━━━━━━━
 
-|A Short Hike| (Really chill exploration game)
 |Baba Is You| (Unique, smart and fun puzzle game)
 |Backbone| (Insane pixel art)
 |Baldi's Basics+| (meme)
